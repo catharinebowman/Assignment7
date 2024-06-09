@@ -1,7 +1,8 @@
 ## Final Project Folder
 # Folder Description
-Overarching folder that stores projects (analyses) that use raw-data, 'cohort'
-Each project contains R script, R project, a specific project description (README), reference list (where relevant), and/or Quarto markdown file.
+Overarching folder that stores projects (analyses) that use raw-data, 'cohort'.
+Folder includes: Assignment 7 Project, Final Assignment Project
+Each project contains R script, an analysis-specific description (README), reference list (where relevant), and/or Quarto markdown file.
 
 # Data Description
 Original Data Repository (forked from): <https://github.com/MethodsForReproducibleHealthResearch/Assignment7.git>
